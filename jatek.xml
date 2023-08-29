@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Jatekok>
+  <Jatek>
+  <nev>TesztJátékNév05</nev>
+  <kategoria>MMORPG</kategoria>
+  <fejleszto>Riot Games</fejleszto>
+  <kiado>Riot Games</kiado>
+</Jatek>
+  <Jatek>
+  <nev>TesztJátékNév06</nev>
+  <kategoria>FPS</kategoria>
+  <fejleszto>Valve Corporation</fejleszto>
+  <kiado>Valve </kiado>
+</Jatek>
+  <Jatek>
+  <nev>TesztJátékNév07</nev>
+  <kategoria>MMORPG</kategoria>
+  <fejleszto>Riot Games</fejleszto>
+  <kiado>Riot Games</kiado>
+</Jatek>
+  <Jatek>
+  <nev>TesztJátékNév08</nev>
+  <kategoria>MMORPG</kategoria>
+  <fejleszto>Riot Games</fejleszto>
+  <kiado>Riot Games</kiado>
+</Jatek>
+  <Jatek>
+  <nev>TesztJátékNév09</nev>
+  <kategoria>MMORPG</kategoria>
+  <fejleszto>Riot Games</fejleszto>
+  <kiado>Riot Games</kiado>
+</Jatek>
+  <Jatek>
+  <nev>TesztJátékNév10</nev>
+  <kategoria>MMORPG</kategoria>
+  <fejleszto>Riot Games</fejleszto>
+  <kiado>Riot Games</kiado>
+</Jatek>
+</Jatekok>
